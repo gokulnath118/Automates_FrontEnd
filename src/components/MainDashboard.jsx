@@ -27,11 +27,6 @@ function MainDashboard() {
       {/* FOOTER */}
       <footer className="footer">
         <p>&copy; 2025 AutoMates. All rights reserved.</p>
-        <div className="social-links">
-          <a href="#" target="_blank" rel="noreferrer">Facebook</a>
-          <a href="#" target="_blank" rel="noreferrer">Twitter</a>
-          <a href="#" target="_blank" rel="noreferrer">Instagram</a>
-        </div>
       </footer>
     </div>
   );

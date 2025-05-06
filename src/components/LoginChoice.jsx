@@ -42,11 +42,6 @@ function LoginChoice() {
       {/* Footer */}
       <footer className="choice-footer">
         <p>&copy; 2025 AutoMates. All rights reserved.</p>
-        <div className="social-links">
-          <a href="https://facebook.com" target="_blank" rel="noreferrer">Facebook</a>
-          <a href="https://twitter.com" target="_blank" rel="noreferrer">Twitter</a>
-          <a href="https://instagram.com" target="_blank" rel="noreferrer">Instagram</a>
-        </div>
       </footer>
     </div>
   );
